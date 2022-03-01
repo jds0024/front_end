@@ -12,4 +12,7 @@ git push
 
 
 SCM에서
-파일 옆에 u:unstaging->버튼클릭->A:add,staginf->메시지입력 ctrl enter는 커밋
+파일 옆에 u:unstaging->버튼클릭->A:add,staginf->메d시지입력 ctrl enter는 커밋 :M
+            ->...메뉴에서 push ->remote저장소 설정안되있으면 ->명령팔레트에 표시 ->url입력하고
+                ,이름 origin 입력
+            -->터미널에서  gitremote -v확인 ->msater 브랜치 확인->마스터 브랜치 선택 ->push
